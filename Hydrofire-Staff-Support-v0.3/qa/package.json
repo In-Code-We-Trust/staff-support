@@ -1,0 +1,1 @@
+{"private":true,"description":"Optional presentation verification only; not required to run Staff Support.","dependencies":{"jsdom":"30.1.3"}}
